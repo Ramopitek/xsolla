@@ -20,4 +20,4 @@ services:
         restart: on-failure
         env_file:
             - .env
-        user: 1000:1000
+        user: root

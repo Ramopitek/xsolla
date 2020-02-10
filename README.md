@@ -1,4 +1,4 @@
-# xsolla-calculator
+# Xsolla-calculator
 ## Запуск
 Устнови docker
 
@@ -10,7 +10,7 @@ docker-compose build
 ```
 docker-compose run -d
 ```
-Приложение будет доступно по адресу [localhost](http://localhost)
+Приложение будет доступно по адресу [localhost](http://localhost:80)
 
 ## Тесты
 Чтоб запустить тесты введи в консоли
