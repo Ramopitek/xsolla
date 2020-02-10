@@ -1,4 +1,0 @@
-#index/constructor page
-controllers:
-    resource: '../src/Controller/'
-    type:     annotation
