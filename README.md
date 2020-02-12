@@ -8,7 +8,7 @@ docker-compose build
 ```
 Чтоб запустить проект введи
 ```
-docker-compose run -d
+docker-compose up -d
 ```
 Приложение будет доступно по адресу [localhost](http://localhost:80)
 
